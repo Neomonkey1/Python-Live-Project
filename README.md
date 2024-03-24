@@ -31,4 +31,4 @@ Here is some of the Back-end for the Baby Activities tracker app. Included will 
 # <a id="section4">Final summary</a> 
  This two week sprint really help me learn the skills of working in an software development team. Working together to improve and fix bugs in our code. Using VCS to fix any errors that slip by. Improving work flow with communication skills. The lessons learned here will truly help me to be a better software developer and team member in future projects and employment.
 
-[go to Introduction](#section1) [go to Front-end](#section2)  [go to Back-end](#section3)  [go to Final summary](#section4)
+[go to Introduction](#section1), [go to Front-end](#section2),  [go to Back-end](#section3),  [go to Final summary](#section4)
