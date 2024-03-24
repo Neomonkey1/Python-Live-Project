@@ -24,3 +24,5 @@ Here is some of the Back-end for the Baby Activities tracker app. Included will 
 - ![ views.py1 code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-views.png)
 - This is part 2 of my views.py showing some more of the functions I used for my app.
 - ![ views.py2 code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-views2.png)
+- Finally this is the model I made for my app. This form when filled out gets saved to the database.
+- ![ models.py code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-models.png)
