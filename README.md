@@ -7,4 +7,4 @@
  I created an Baby Activities tracker app with Django framework. I included a navbar to each section of my site and styling using CSS. Here are some screenshots of what I have done.
 
  - Here is the Home page
- - 
+ - ![ Home page image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-Homepage.png)
