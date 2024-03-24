@@ -20,3 +20,6 @@ Here is some of the Back-end for the Baby Activities tracker app. Included will 
 - ![ base.html code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-base-html.png)
 - Here is the urls.py code that I use for all the pages of my site.
 - ![ urls.py code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-urls.png)
+- This is part 1 of my views.py showing some of the functions I used for my app.
+- ![ views.py1 code image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-views.png)
+- This is part 2 of my views.py showing some more of the functions I used for my app.
