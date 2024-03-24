@@ -8,3 +8,5 @@
 
  - Here is the Home page
  - ![ Home page image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-Homepage.png)
+ - This is the Create page with a form that saves to a database.
+ - ![ Create page image ](https://github.com/Neomonkey1/Python-Live-Project/blob/main/screenshots/LPJ-CreatePage.png)
